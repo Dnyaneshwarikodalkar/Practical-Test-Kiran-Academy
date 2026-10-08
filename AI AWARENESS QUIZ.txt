@@ -1,0 +1,72 @@
+Section A
+
+1.Llama is developed by meta
+2.Gemini is developed by Google
+3.claude is developed by anthropic
+4.Grok is developed by xAl
+5.mistral models are developed by Mistral Ai
+6.GPTmodel family associated with chatgpt
+7.sora used for generating videos from text prompts
+8.veo is an AI video generation model associated with google
+9.used for image creation
+10.Github caploit used for AI-Associated coding
+
+
+
+Section B
+
+
+11. Large Language Model
+12. AI that generates new content
+13. An instruction given to an AI model
+14. Instructions that guide the AI’s behavior
+15. AI that works with multiple types of data
+16. False or incorrect AI-generated information
+17. Units of text processed by an LLM
+18. The amount of information an AI model can handle at once
+19. Running a trained AI model to produce an output
+20. Training an existing model on specific data
+
+
+Section c
+
+
+21. An AI system that can perform tasks autonomously
+22. A chatbot mainly responds; an agent can take actions and use tools
+23. Allowing AI to call external tools or functions
+24. Model Context Protocol
+25. To authenticate access to an AI service
+26. A limit on the number of API requests
+27. AI-powered code editor
+28. Documents and research materials
+29. Searching by meaning rather than exact keywords
+30. Coding, debugging, and documentation
+
+Section D
+
+
+31. Speech-to-text converts spoken language into text.
+32. Text-to-speech converts text into spoken audio.
+33. OCR extracts text from an image.
+34. A vision model understands and analyzes images.
+35. Text-to-video AI generates videos from text prompts.
+36. Diffusion models are commonly used for generating images.
+37. GPUs are widely used because they perform parallel computations efficiently.
+38. Neural Processing Unit
+39. Model data and intermediate computations
+40. Running an AI model directly on a local device
+
+
+Section E
+
+41. An AI model whose weights are available to users
+42. Training a smaller model using a larger model
+43. Efficient fine-tuning of AI models
+44. Mixture of Experts
+45. A test used to evaluate AI model performance
+46. A safety control that limits harmful or unwanted behavior
+47. An attack that manipulates AI instructions
+48. Personally Identifiable Information
+49. It may expose confidential or sensitive information
+50. Verify the answer from reliable sources before using it for an important decision.
+   
